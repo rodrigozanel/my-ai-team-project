@@ -3,7 +3,11 @@
     "allow": [
       "Read(//Users/rodrigo/codez/pocs/project-coding/**)",
       "Read(//Users/rodrigo/codez/pocs/project-testing/**)",
-      "Bash(git add:*)"
+      "Bash(mkdir:*)",
+      "Bash(git add:*)",
+      "Bash(git fetch:*)",
+      "Bash(git rebase:*)",
+      "Bash(git push:*)"
     ],
     "deny": [],
     "ask": []
