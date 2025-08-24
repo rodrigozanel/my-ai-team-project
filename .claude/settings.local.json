@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/rodrigo/codez/pocs/project-coding/**)",
+      "Read(//Users/rodrigo/codez/pocs/project-testing/**)",
+      "Bash(git add:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
