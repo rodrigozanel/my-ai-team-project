@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git worktree:*)",
+      "Read(//Users/rodrigo/codez/pocs/project-coding/**)",
+      "Read(//Users/rodrigo/codez/pocs/project-review/**)",
+      "Read(//Users/rodrigo/codez/pocs/project-testing/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
